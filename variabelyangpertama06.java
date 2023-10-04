@@ -1,6 +1,6 @@
 public class variabelyangpertama06 {
     public static void main (String args){
- char golonganDarah ='A'
+ char golonganDarah ='A';
  byte jarak = (byte) 130;
  short jumlahPendudulkDalamSatuDusun = 1025;
  float suhu = 60.50F;
